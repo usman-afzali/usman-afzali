@@ -7,4 +7,5 @@ I currently teach two courses: a postgraduate course in neuroscience: [Computati
 
 I use GitHub to share code for the above courses and also for my research projects and creative work.
 
-For more info, please check my [website](www.usmanafzali.com).
+For more info, please check my [website](http://www.usmanafzali.com).
+
