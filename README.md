@@ -1,11 +1,27 @@
-# Welcome to my GitHub page
+# Welcome to my GitHub page!
 
-I completed my PhD in psychology in 2022 - training in experimental psychology and neuroscience. Since the end of 2022, I started using Git and GitHub to learn, produce, and share code. I mainly use `RStudio` with `Quarto`, occasionally, I also use `Python` and `Matlab` too.
-Psychology fascinates me and my lifelong goal is to conduct good science, focusing on pre-registration and open science.
+I am a postdoctoral research fellow and PI at University of Canterbury in New Zealand, conducting research in human flourishing and religion. During my PhD, I was trained in experimental psychology and neuroscience. 
 
-I currently teach two courses: a postgraduate course in neuroscience: [Computational Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023) and stats/methods: [Intermediate Research Methods and Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022) at [University of Canterbury](https://www.canterbury.ac.nz). 
+Since the end of 2022, I started using `Git` and `GitHub` to learn, produce, and share code. I mainly use `RStudio` with `Quarto`. Occasionally, I use `Matlab` too.
 
-I use GitHub to share code for the above courses and also for my research projects and creative work.
+Psychology fascinates me a great deal and my lifelong goal is to conduct good science, focusing on pre-registration and open science. My immediate goal is to become a permanent (tenure-track) lecturer in psychology.
+
+I am experienced in teach statistics and research methods. 
+
+
+## Current projects
+
+1. As PI and postdoctoral research fellow in [A national longitudinal study of Muslim diversity and flourishing](https://usman-afzali.github.io/nzavs-flourishing/)
+
+2. As PI in Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect
+
+3. As PI in Resting EEG microstates during contemplative practices
+
+## Current courses
+
+1. Postgraduate [Computational Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023)
+
+2. Undergraduate [Intermediate Research Methods and Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022). 
 
 For more info, please check my [website](http://www.usmanafzali.com).
 
