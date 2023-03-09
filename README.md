@@ -1,12 +1,12 @@
 # Welcome to my GitHub page!
 
-I am a postdoctoral research fellow and PI at University of Canterbury in New Zealand, conducting research in human flourishing and religion. During my PhD, I was trained in experimental psychology and neuroscience. 
+I am a postdoctoral research fellow and PI of [`A national longitudinal study of Muslim diversity and flourishing`](https://usman-afzali.github.io/nzavs-flourishing/), based at University of Canterbury in New Zealand.
 
-Since the end of 2022, I have been using `Git` and `GitHub` with `RStudio` with `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` too.
+Since the end of 2022, I have been using `GitHub` with `RStudio` and `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` too.
 
-Psychology fascinates me a great deal and my lifelong goal is to conduct good science, focusing on pre-registration and open science. My immediate goal is to become a permanent (tenure-track) lecturer in psychology.
+Psychology fascinates me a great deal and my lifelong goal is to conduct good science and contribute to open science.
 
-I am experienced in teach statistics and research methods. 
+I am experienced in teach statistics and research methods and my immediate goal is to become a permanent (tenure-track) `lecturer in psychology`.
 
 ## Fields of Research
 
@@ -30,5 +30,5 @@ I am experienced in teach statistics and research methods.
 
 2. Undergraduate [Intermediate Research Methods and Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022). 
 
-For more info, please check my [website](http://www.usmanafzali.com).
+For more information, please check my [website](http://www.usmanafzali.com).
 
