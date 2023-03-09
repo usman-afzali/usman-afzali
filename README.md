@@ -2,7 +2,7 @@
 
 I am a postdoctoral research fellow and PI at University of Canterbury in New Zealand, conducting research in human flourishing and religion. During my PhD, I was trained in experimental psychology and neuroscience. 
 
-Since the end of 2022, I started using `Git` and `GitHub` to learn, produce, and share code. I mainly use `RStudio` with `Quarto`. Occasionally, I use `Matlab` too.
+Since the end of 2022, I have been using `Git` and `GitHub` with `RStudio` with `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` too.
 
 Psychology fascinates me a great deal and my lifelong goal is to conduct good science, focusing on pre-registration and open science. My immediate goal is to become a permanent (tenure-track) lecturer in psychology.
 
