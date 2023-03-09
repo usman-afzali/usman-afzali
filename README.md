@@ -8,14 +8,21 @@ Psychology fascinates me a great deal and my lifelong goal is to conduct good sc
 
 I am experienced in teach statistics and research methods. 
 
+## Fields of Research
+
+- Human Flourishing
+- Contemplative Neuroscience
+- Cognitive Psychology
+- Forensic Neuroscience
+
 
 ## Current projects
 
-1. As PI and postdoctoral research fellow in [A national longitudinal study of Muslim diversity and flourishing](https://usman-afzali.github.io/nzavs-flourishing/)
+1. As PI and postdoctoral research fellow in [`A national longitudinal study of Muslim diversity and flourishing`](https://usman-afzali.github.io/nzavs-flourishing/)
 
-2. As PI in Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect
+2. As PI in `Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect`
 
-3. As PI in Resting EEG microstates during contemplative practices
+3. As PI in `Resting EEG microstates during contemplative practices`
 
 ## Current courses
 
