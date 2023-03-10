@@ -12,7 +12,7 @@ I am experienced in teaching statistics and research methods and my immediate go
 
 - Human Flourishing
 - Contemplative Neuroscience
-- Cognitive Psychology
+- Cognitive Psychology: memory suppression
 - Forensic Neuroscience
 
 
