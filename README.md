@@ -6,7 +6,7 @@ Since the end of 2022, I have been using `GitHub` with `RStudio` and `Quarto` to
 
 Psychology fascinates me a great deal and my lifelong goal is to conduct good science and contribute to open science.
 
-I am experienced in teach statistics and research methods and my immediate goal is to become a permanent (tenure-track) `lecturer in psychology`.
+I am experienced in teaching statistics and research methods and my immediate goal is to become a permanent (tenure-track) `lecturer in psychology`.
 
 ## Fields of Research
 
