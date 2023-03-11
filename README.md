@@ -2,7 +2,7 @@
 
 I am a postdoctoral research fellow and PI of [`A national longitudinal study of Muslim diversity and flourishing`](https://usman-afzali.github.io/nzavs-flourishing/), based at University of Canterbury in New Zealand.
 
-Since the end of 2022, I have been using `GitHub` with `RStudio` and `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` too.
+Since the end of 2022, I have been using `GitHub` with `RStudio` and `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` and `Python` too.
 
 Psychology fascinates me a great deal and my lifelong goal is to conduct good science and contribute to open science.
 
