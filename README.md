@@ -27,7 +27,7 @@ I am experienced in teaching statistics, research methods, cognitive psychology,
 
 1. Postgraduate [Computational Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023) (2023)
 
-2. Undergraduate [Intermediate Research Methods and Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022) (2022-2023)
+2. Undergraduate [Intermediate Research Methods and Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=23S2(C)&year=2023) (2022-2023)
 
 For more information, please check my [website](http://www.usmanafzali.com).
 
