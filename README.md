@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-I am a postdoctoral research fellow and PI of the [`Muslim Diversity Study`](https://usman-afzali.github.io/muslim-diversity/), based at the University of Canterbury in New Zealand.
+I am the principal investigator of the [Muslim Diversity Study](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/), currently working as a postdoctoral research fellow and lecturer in the School of Psychology, Speech and Hearing at the University of Canterbury (Christchurch, New Zealand).
 
 Since the end of 2022, I have been using `GitHub` with `RStudio` and `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` and `Python` too.
 
@@ -8,20 +8,21 @@ I am experienced in teaching statistics, research methods, cognitive psychology,
 
 ## Fields of Research
 
-- Human Flourishing
-- Contemplative Neuroscience
-- Cognitive Psychology: memory suppression
-- Forensic Neuroscience
+- Human flourishing
+- Diversity in religious groups
+- Contemplative neuroscience
+- Cognitive psychology: memory suppression
+- Forensic neuroscience
 
 ## Current projects
 
-1. As PI and postdoctoral research fellow in the [`Muslim Diversity Study`](https://usman-afzali.github.io/muslim-diversity/).
+1. As PI and postdoctoral research fellow in the [`Muslim Diversity Study`](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/).
 
 2. As PI in [`Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect`](https://osf.io/nru4x/?view_only=bc189174a1cf4ca8b1dc83cf7967cd9e)
 
 3. As PI in [`Resting EEG microstates during contemplative practices`](https://osf.io/ns5zm/)
 
-4. As PI in the `Next-generation forensic brainwave analysis system: AI-based crime detection in Aotearoa - real-life and VR applications`
+4. As PI in the `Artificial Intelligence-Based Crime Detection in Aotearoa: Real-life and Virtual Reality Applications`
 
 ## Current courses
 
