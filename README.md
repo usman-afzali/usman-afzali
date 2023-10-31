@@ -24,7 +24,7 @@ I am experienced in teaching statistics, research methods, cognitive psychology,
 
 4. As PI in the `Artificial Intelligence-Based Crime Detection in Aotearoa: Real-life and Virtual Reality Applications`
 
-## Current courses
+## Courses
 
 1. Postgraduate [Computational Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023) (2023)
 
