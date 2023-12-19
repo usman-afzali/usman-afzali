@@ -9,7 +9,7 @@ I am experienced in teaching statistics, research methods, cognitive psychology,
 ## Fields of Research
 
 - Human flourishing
-- Diversity in religious groups
+- Psychology of religion
 - Contemplative neuroscience
 - Cognitive psychology: memory suppression
 - Forensic neuroscience
