@@ -1,10 +1,10 @@
 # Welcome to my GitHub page!
 
-I serve as a lecturer in the [Religion Programme](https://www.otago.ac.nz/religion) at the [University of Otago](https://www.otago.ac.nz), where I teach courses in [Science of Religion](https://www.otago.ac.nz/subjects/srel).
+I serve as a lecturer in the [Religion Programme](https://www.otago.ac.nz/religion) at the University of Otago, where I teach courses in [Science of Religion](https://www.otago.ac.nz/subjects/srel).
 
-My research explores how religious beliefs and practices shape human cognition, behaviour, and social dynamics. I employ a mix of quantitative, qualitative, experimental (behavioural and neuroscientific), and survey methods.
+My research explores how religious beliefs and practices shape human cognition, behaviour, and social dynamics. I employ a mix of quantitative, qualitative, experimental (behavioural and neuroscientific), and survey research methods.
 
-As the Principal Investigator of the [Muslim Diversity Study](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/), I lead research on the influence of religion on social attitudes, values, flourishing, and wellbeing within Muslim communities in New Zealand. Additionally, I compare these factors across religious and non-religious groups to explore broader patterns in belief and behaviour. My work in this area includes a collaborative role in the [New Zealand Attitudes and Values Study](https://osf.io/75snb/), a 20-year longitudinal quantitative panel study of adult New Zealanders.
+As the Principal Investigator of the [Muslim Diversity Study](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study), I lead research on the influence of religion on social attitudes, values, flourishing, and wellbeing within Muslim communities in New Zealand. Additionally, I compare these factors across religious and non-religious groups to explore broader patterns in belief and behaviour. My work in this area includes a collaborative role in the [New Zealand Attitudes and Values Study](https://osf.io/75snb/), a 20-year longitudinal quantitative panel study of adult New Zealanders.
 
 I hold a PhD in cognitive psychology and neuroscience, with my doctoral research focusing on memory suppression and utilising brainwave (EEG/ERP) data to investigate the possession of concealed criminal knowledge. My broader research interests include contemplative neuroscience, examining the neural correlates of rituals, meditation, and other contemplative practices.
 
@@ -21,7 +21,7 @@ I am passionate about advancing open science, addressing questionable research p
 
 ## Current projects
 
-1. As PI in the [`Muslim Diversity Study`](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/).
+1. As PI in the [`Muslim Diversity Study`](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study).
 
 2. As PI in [`Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect`](https://osf.io/nru4x/?view_only=bc189174a1cf4ca8b1dc83cf7967cd9e)
 
