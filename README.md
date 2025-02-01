@@ -1,48 +1,45 @@
 # Welcome to my GitHub page!
 
-I am the lead researcher (principal investigator) of the [Muslim Diversity Study](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/), currently working as a postdoctoral research fellow and lecturer in the School of Psychology, Speech and Hearing at the University of Canterbury (Christchurch, New Zealand).
+I serve as a lecturer in the [Religion Programme](https://www.otago.ac.nz/religion) at the [University of Otago](https://www.otago.ac.nz), where I teach courses in [Science of Religion](https://www.otago.ac.nz/subjects/srel).
 
-In the multi-city longitudinal Muslim Diversity Study, my team and I concentrate on investigating the effects of religion on social attitudes, values, resilience, flourishing, meaning-making, overall well-being, and experiences of Muslims in New Zealand. In this capacity, I lead a team of `28 research assistants` and numerous collaborators, fostering a collaborative and enriching research environment.
+My research explores how religious beliefs and practices shape human cognition, behaviour, and social dynamics. I employ a mix of quantitative, qualitative, experimental (behavioural and neuroscientific), and survey methods.
 
-During PhD, I  received training in cognitive psychology and neuroscience, with a primary emphasis on memory suppression and utilising brainwave (EEG/ERP) data to examine possession of criminal knowledge. Additionally, my research encompasses contemplative neuroscience, where I aim to explore neural correlates of contemplative practices.
+As the Principal Investigator of the [Muslim Diversity Study](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/), I lead research on the influence of religion on social attitudes, values, flourishing, and wellbeing within Muslim communities in New Zealand. Additionally, I compare these factors across religious and non-religious groups to explore broader patterns in belief and behaviour. My work in this area includes a collaborative role in the [New Zealand Attitudes and Values Study](https://osf.io/75snb/), a 20-year longitudinal quantitative panel study of adult New Zealanders.
 
-I use experimental (behavioural as well as neuroscientific) and observational research methods.
+I hold a PhD in cognitive psychology and neuroscience, with my doctoral research focusing on memory suppression and utilising brainwave (EEG/ERP) data to investigate the possession of concealed criminal knowledge. My broader research interests include contemplative neuroscience, examining the neural correlates of rituals, meditation, and other contemplative practices.
 
-Since the end of 2022, I have been using `GitHub` with `RStudio` and `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` and `Python` too.
+I am passionate about advancing open science, addressing questionable research practices, and promoting ethical publishing standards in science. To this end, I actively use and advocate for open science tools like `GitHub` and `OSF`. I code primarily in `R` using `Positron` and `Quarto`, with further experience in `Matlab` and `Python`. Additionally, I am eager to explore the applications of generative `AI`, such as `ChatGPT` and `Copilot`, in academic research and teaching.
 
-## Fields of Research
+## Areas of Research
 
 - Human flourishing
 - Psychology of religion
-- Contemplative neuroscience
-- Cognitive psychology: memory suppression
-- Forensic neuroscience
+- Islamophobia
+- Rituals and contemplation
+- Cognitive psychology
+- Forensic psychology
 
 ## Current projects
 
-1. As PI and postdoctoral research fellow in the [`Muslim Diversity Study`](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/).
+1. As PI in the [`Muslim Diversity Study`](https://www.canterbury.ac.nz/science/schools/psyc-speech-hear/research/muslim-diversity/).
 
 2. As PI in [`Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect`](https://osf.io/nru4x/?view_only=bc189174a1cf4ca8b1dc83cf7967cd9e)
 
 3. As PI in [`Resting EEG microstates during contemplative practices`](https://osf.io/ns5zm/)
-
-4. As PI in the `Artificial Intelligence-Based Crime Detection in Aotearoa: Real-life and Virtual Reality Applications`
 
 
 ## Research Supervision
 
 Since 2021, I have developed a track record of effective leading and supervising research at different levels (PhD, Masters, and Honours).
 
-## Teaching
+## Teaching in 2025
 
-My experience encompasses teaching statistics, research methods, cognitive psychology, and neuroscience, consistently earning positive feedback each year. I take pride in my ability to embrace constructive criticism and continuously enhance my teaching approach. Currently, I teach the following courses:
+1. [Psychology of Religion](https://www.otago.ac.nz/courses/papers?papercode=RELS237#t-2025)
 
-1. Postgraduate [Computational Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023) (2023-Present)
+2. [Religion and Human Behaviour](https://www.otago.ac.nz/courses/papers?papercode=RELS238#t-2025)
 
-2. Undergraduate [Intermediate Research Methods and Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=23S2(C)&year=2023) (2022-2024)
+3. [Introduction to the Scientific Study of Religion](https://www.otago.ac.nz/courses/papers?papercode=RELS110)
 
-## Career Goals
-
-My immediate goal is to become a permanent (tenure-track) `lecturer in psychology`. Psychology and science fascinate me a great deal and my lifelong goal is to conduct good science and contribute to open science. 
 
 For more information, please check my [website](http://www.usmanafzali.com).
+
